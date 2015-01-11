@@ -2,19 +2,19 @@
 
 ===== Aller dans "General", "Plugins", "RfxCom"
 
-image::../images/volet.ematronic/image07.png
+image::../images/volet.ematronic/image07.png[]
 
 ===== Dans "Gestion des protocoles RFXCOM",
 
-image::../images/volet.ematronic/image04.png
+image::../images/volet.ematronic/image04.png[]
 
 cocher le Protocole 8, BlindsT1, Enregistrer et sortir.
 
-image::../images/volet.ematronic/image08.png
+image::../images/volet.ematronic/image08.png[]
 
 ===== Activer, "Lancer en mode debug"
 
-image::../images/volet.ematronic/image03.png
+image::../images/volet.ematronic/image03.png[]
 
 Attendre l’ouverture de la fenêtre, puis appuyer sur la touche Ouvrir de votre télécommande Ematronic.
 
@@ -39,31 +39,31 @@ Notre télécommande a donc comme ID => 1F84B9.
 
 ===== Arrêter le Mode Debug par le bouton "Arrêter/Redemarrer le démon"
 
-image::../images/volet.ematronic/image06.png
+image::../images/volet.ematronic/image06.png[]
 
 ==== Création de la télécommande sous JeeDom
 
 Aller, dans Plugin, RFXCom.
 
-image::../images/volet.ematronic/image10.png
+image::../images/volet.ematronic/image10.png[]
 
 Cliquer sur "Ajouter" et saisir un nom pour votre télécommande vituelle. 
 
-image::../images/volet.ematronic/image00.png
+image::../images/volet.ematronic/image00.png[]
 
 Choisir dans la liste des équipements le template : "Volet Ematronic - Defaut". 
 
 Remplacer l’ID automatique par celui que vous avez Extrait précédemment et Cocher "Activer" et "Visible" :
 
-image::../images/volet.ematronic/image11.png
+image::../images/volet.ematronic/image11.png[]
 
 Cliquer sur "Sauvegarder" pour enregistrer votre configuration et charger la template "Volet Ematronic - Defaut".
 
-image::../images/volet.ematronic/image02.png
+image::../images/volet.ematronic/image02.png[]
 
 Voila votre Télécommande est prête elle doit ressembler a ça :
 
-image::../images/volet.ematronic/image05.png
+image::../images/volet.ematronic/image05.png[]
 
 
 ==== Associer votre Télécommande vituelle JeeDom à votre moteur Ematronic :
@@ -89,5 +89,5 @@ image::../images/volet.ematronic/image05.png
 - Relâcher le bouton de la télécommande.
 - Le moteur fera 5 bips.
 - Appuyer sur la Commande "Monter" de la télécommande Vituelle de JeeDom. 
-image::../images/volet.ematronic/image09.png
+image::../images/volet.ematronic/image09.png[]
 - Le moteur fera 3 bips, pour annoncer que votre JeeDoom est associée !!
