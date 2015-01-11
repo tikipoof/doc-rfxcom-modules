@@ -1,0 +1,3 @@
+== Documentation sur les modules rfxcom
+=== Volets Ematronic
+include::volets.ematronic.asciidoc[]
