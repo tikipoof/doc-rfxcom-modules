@@ -18,6 +18,7 @@ image::../images/volet.ematronic/image03.png[]
 
 Attendre l’ouverture de la fenêtre, puis appuyer sur la touche Ouvrir de votre télécommande Ematronic.
 
+----
 MainThread - rfxcmd:2765 - DEBUG - Test message: 09 19 03 01 1F 84 B9 01 01 60
 MainThread - rfxcmd:2805 - DEBUG - Message OK
 MainThread - rfxcmd:328 - DEBUG - Verified OK
@@ -28,6 +29,7 @@ MainThread - rfxcmd:346 - DEBUG - Id1: 1F
 MainThread - rfxcmd:350 - DEBUG - Id2: 84
 MainThread - rfxcmd:359 - DEBUG - Verify correct packet length
 MainThread - rfxcmd:556 - DEBUG - Save packet to log_msgfile
+----
 
 ===== Rechercher de l’ID de la télécommande
 
