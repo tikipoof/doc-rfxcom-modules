@@ -1,9 +1,8 @@
+= Liste des équipements compatible RFXCOM
+
 [cols="4*", options="header"] 
 |===
-|Nom
-|Protocol
-|Remarque
-|Lien
+|Nom|Protocol|Remarque|Lien
 
 |Atlantic’S MD-210R|Meiantech||
 
@@ -90,3 +89,6 @@
 |WD18 Détecteur d'Eau|X10||
 
 |===
+
+[NOTE]
+Cette liste est basé sur des retours utilisateurs, l'équipement Jeedom ne peut donc garantir que tous les modules de cette liste sont 100% fonctionels
