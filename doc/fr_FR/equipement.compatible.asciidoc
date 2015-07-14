@@ -1,0 +1,92 @@
+[cols="4*", options="header"] 
+|===
+|Nom
+|Protocol
+|Remarque
+|Lien
+
+|Atlantic’S MD-210R|Meiantech||
+
+|Atlantic’S DT-335R DMT|Meiantech||
+
+|Atlantic’S MC-335R DMT|Meiantech||
+
+|Atlantic'S 7380R DMT|Meiantech||
+
+|Atlantic's PB-201R|Meiantech||
+
+|Blyss 567434|||
+
+|Blyss 582866|||
+
+|Blyss 582867|||
+
+|Chacon 34131 (Détecteur de fumée)|AC||
+
+|Chacon 54595 (Pack de 3 Prise Chacon + télécommande 3 canaux + 1 groupe)|AC||
+
+|Chacon 54795 (Pack de 3 Prises Chacon DI.O first + télécommande 3 canaux)|AC||
+
+|Chacon 54501|AC||
+
+|Chacon 54514 Variateur|AC||
+
+|Chacon 54761 Télécommande|AC||
+
+|Chacon 54730|AC||http://www.domadoo.fr/fr/peripheriques/574-chacon-di-o-carillon-sans-fil-enfichable.html[Acheter]
+
+|Chacon 200W 54758|AC|On/Off seulement|
+
+|Chacon 54660 2000W|AC||
+
+|Chacon 54524 300W|AC|On/Off seulement|
+
+|Coco|AC|Gamme complète|http://www.domotique-store.fr/36_coco-devient-trust-smart-home[Acheter]
+
+|CRESTA HW-TX320|Hideki||
+
+|Digimax 210 TH10|X10 |Utiliser "Température, Humidité et Pression - Defaut"|
+
+|DI.O by Chacon 54761|AC||http://www.domadoo.fr/produit,1528,15,CHACON-T%E5%B9%A8%E5%B6%B0ommande-16-canaux-Blanche-%28gamme-DI-O%29.htm[Acheter]
+
+|DI.O by Chacon 54746|AC||
+
+|DI-O by Chacon 54754|AC||
+
+|DI-O by Chacon 54798|AC||
+
+|DS18|||http://www.planete-domotique.com/ds18-detecteur-de-porte-fenetre-sans-fil.html[Acheter]
+
+|Homewizad HW-TX320|||
+
+|LaCross Technologie WS7394|LaCrosse||
+
+|Lexibook SM883|Hideki / UPM||
+
+|ITL-1000|||
+
+|Oregon THGR122NX|Oregon||http://my-domotique.com/store/index.php?id_product=48&controller=product&id_lang=2[Acheter]
+
+|UV Oregon UVN800|Oregon||http://www.domadoo.fr/fr/peripheriques/2129-oregon-scientific-sonde-uv-uvn800-pour-station-pro.html[Acheter]
+
+|OWL CM119|Oregon||
+
+|OWL Micro+ CM180|Oregon||
+
+|OWL TSE200-001|Oregon||
+
+|SIMU RSA HZ|||
+
+|Somfy Freevia 300|Poser RFXCOM sur le moteur pour l'associer au moteur comme si c'était une télécommande||
+
+|Somfy Evolvia 400/450|Poser RFXCOM sur le moteur pour l'associer au moteur comme si c'était une télécommande.Le capot du moteur doit être ouvert et il doit faire jour. La procédure ne marche pas s'il fait nuit.||
+
+|Somfy RTS|||
+
+|Thermomètre TX320|||
+
+|TFA 30.3139 RADIO SENSOR|||
+
+|WD18 Détecteur d'Eau|X10||
+
+|===

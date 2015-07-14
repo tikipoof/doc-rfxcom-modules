@@ -1,10 +1,12 @@
-==== Recherche de l’ID de la télécommande
+= Volet Ematronics
 
-===== Aller dans "General", "Plugins", "RfxCom"
+== Recherche de l’ID de la télécommande
+
+=== Aller dans "General", "Plugins", "RfxCom"
 
 image::../images/volet.ematronic/image07.png[]
 
-===== Dans "Gestion des protocoles RFXCOM",
+=== Dans "Gestion des protocoles RFXCOM",
 
 image::../images/volet.ematronic/image04.png[]
 
@@ -12,7 +14,7 @@ cocher le Protocole 8, BlindsT1, Enregistrer et sortir.
 
 image::../images/volet.ematronic/image08.png[]
 
-===== Activer, "Lancer en mode debug"
+=== Activer, "Lancer en mode debug"
 
 image::../images/volet.ematronic/image03.png[]
 
@@ -31,7 +33,7 @@ MainThread - rfxcmd:359 - DEBUG - Verify correct packet length
 MainThread - rfxcmd:556 - DEBUG - Save packet to log_msgfile
 ----
 
-===== Rechercher de l’ID de la télécommande
+=== Rechercher de l’ID de la télécommande
 
 Remarque, les telecommandes Ematronic commence toujours par : 09 19 03 donc la zone qui nous intéresse démarre de "Test message" : 09 19 03.
 
@@ -39,11 +41,11 @@ Repérer : Id1 et Id2 et ajouter l’hexadecimal suivant : dans mon exemple Id1=
 vous devez donc les repérer dans la ligne, "Test message" et en extraire  l’Id3 , ici Id3=B9, 
 Notre télécommande a donc comme ID => 1F84B9.
 
-===== Arrêter le Mode Debug par le bouton "Arrêter/Redemarrer le démon"
+=== Arrêter le Mode Debug par le bouton "Arrêter/Redemarrer le démon"
 
 image::../images/volet.ematronic/image06.png[]
 
-==== Création de la télécommande sous JeeDom
+== Création de la télécommande sous JeeDom
 
 Aller, dans Plugin, RFXCom.
 
@@ -68,9 +70,9 @@ Voila votre Télécommande est prête elle doit ressembler a ça :
 image::../images/volet.ematronic/image05.png[]
 
 
-==== Associer votre Télécommande vituelle JeeDom à votre moteur Ematronic :
+== Associer votre Télécommande vituelle JeeDom à votre moteur Ematronic :
 
-===== Ré-initialisation du moteur :
+=== Ré-initialisation du moteur :
 
 - Débrancher électriquement le moteur.
 - Sur le télécommande d’origine, laisser le bouton Up Appuyer 3 ou 4 secondes, la led devient rouge fixe. 
@@ -81,9 +83,7 @@ image::../images/volet.ematronic/image05.png[]
 - Le moteur fera 3 bips.
 
 
-===== Association de la télécommande Vituelle JeeDom au moteur Ematronic :
-
-
+== Association de la télécommande Vituelle JeeDom au moteur Ematronic :
 
 - Débrancher électriquement le moteur.
 - Sur le télécommande d’origine, laisser le bouton "Up" Appuyer 3 ou 4 secondes, la led devient rouge fixe. 
