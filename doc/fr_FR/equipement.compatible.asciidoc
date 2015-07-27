@@ -56,6 +56,10 @@
 
 |DS18|||http://www.planete-domotique.com/ds18-detecteur-de-porte-fenetre-sans-fil.html[Acheter]
 
+|KDI FER-1000W|Ex de code pour allumer la prise 07100102500D0160||
+
+|KDI FECT-100|||
+
 |Homewizad HW-TX320|||
 
 |LaCross Technologie WS7394|LaCrosse||
