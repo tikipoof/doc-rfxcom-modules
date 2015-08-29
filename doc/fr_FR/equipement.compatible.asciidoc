@@ -46,6 +46,8 @@
 
 |Digimax 210 TH10|X10 |Utiliser "Température, Humidité et Pression - Defaut"|
 
+|DI.O by Chacon 54760|AC||
+
 |DI.O by Chacon 54761|AC||http://www.domadoo.fr/produit,1528,15,CHACON-T%E5%B9%A8%E5%B6%B0ommande-16-canaux-Blanche-%28gamme-DI-O%29.htm[Acheter]
 
 |DI.O by Chacon 54746|AC||
@@ -71,6 +73,14 @@
 |ITL-1000|||
 
 |Oregon THGR122NX|Oregon||http://my-domotique.com/store/index.php?id_product=48&controller=product&id_lang=2[Acheter]
+
+|Oregon THGN132N|Oregon||
+
+|Oregon THGR810|Oregon||
+
+|Oregon WGR800|Oregon||
+
+|Oregon PCR800|Oregon||
 
 |UV Oregon UVN800|Oregon||http://www.domadoo.fr/fr/peripheriques/2129-oregon-scientific-sonde-uv-uvn800-pour-station-pro.html[Acheter]
 
