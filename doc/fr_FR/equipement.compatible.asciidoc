@@ -54,6 +54,8 @@
 
 |DI-O by Chacon 54798|AC||
 
+|DI-O by Chacon 54790|AC||http://www.domadoo.fr/fr/peripheriques/2999-chacon-micromodule-pour-prise-murale-3500w-5411478547907.html[Acheter]
+
 |DS18|||http://www.planete-domotique.com/ds18-detecteur-de-porte-fenetre-sans-fil.html[Acheter]
 
 |KDI FER-1000W|Ex de code pour allumer la prise 07100102500D0160||
