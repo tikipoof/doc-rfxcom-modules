@@ -72,6 +72,8 @@
 
 |ITL-1000|||
 
+|JB-Media récepteur IR Light-Manager Mini|AC||
+
 |Oregon THGR122NX|Oregon||http://my-domotique.com/store/index.php?id_product=48&controller=product&id_lang=2[Acheter]
 
 |Oregon THGN132N|Oregon||
