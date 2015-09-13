@@ -4,6 +4,8 @@
 |===
 |Nom|Protocol|Remarque|Lien
 
+|Alteco WS-1700|Rubicson/Alecto||
+
 |Atlantic’S MD-210R|Meiantech||
 
 |Atlantic’S DT-335R DMT|Meiantech||
